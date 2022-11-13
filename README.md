@@ -9,7 +9,7 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
 720819104069 - Mohammed ismail<br>
 720819104070 - Mohsin Nathar Ali<br>
 720819104106 - Sivabalaji T<br>
-720819104114 - Tamilarasan  &nbsp&nbsp&<h3>
+720819104114 - Tamilarasan<h3>
     </div>
  
 ## Tasks Completed 
