@@ -12,8 +12,12 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
 720819104114 - Tamilarasan<h3>
     </div>
  
-## Tasks Completed 
-
+## Tasks Completed
+- Assignments
+    -  [x] Assignment 1 <br>
+    -  [x] Assignment 2  <br>    
+    -  [x] Assignment 3  <br> 
+    -  [x] Assignment 4  <br>
 - Project Design and planning
     - Ideation Phase
         -  [x] Brainstorming- Idea Generation- Prioritization<br>
@@ -32,11 +36,11 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
     - Project Planning Phase
         - [x] Road Map
         - [x] Project Planning  
-    - Assignments
-    -  [x] Assignment 1 <br>
-    -  [x] Assignment 2  <br>    
-    -  [x] Assignment 3  <br> 
-    -  [x] Assignment 4  <br>
+    - Project Development Phase
+        - [x] Sprint 1
+        - [x] Sprint 2
+        - [x] Sprint 3
+        - [x] Sprint 4
    
  
 <br>
