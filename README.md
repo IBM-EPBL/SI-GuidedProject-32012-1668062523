@@ -6,13 +6,18 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
         <h2 align="center" style="margin-top:50px"> Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine Learning
         <br><br>Team ID: PNT2022TMID10401</h2>
 <h3>Team Members:<br>
-720819104069 - Mohammed ismail<br>
+720819104068 - Mohammed ismail<br>
 720819104070 - Mohsin Nathar Ali<br>
 720819104106 - Sivabalaji T<br>
 720819104114 - Tamilarasan<h3>
     </div>
  
 ## Tasks Completed 
+- Assignments
+    -  [x] Assignment 1 <br>
+    -  [x] Assignment 2  <br>    
+    -  [x] Assignment 3  <br> 
+    -  [x] Assignment 4  <br>
 - Project Design and planning
     - Ideation Phase
         -  [x] Brainstorming- Idea Generation- Prioritization<br>
@@ -31,11 +36,12 @@ Trip Based Modeling of Fuel Consumption in Modern Fleet Vehicles Using Machine L
     - Project Planning Phase
         - [x] Road Map
         - [x] Project Planning       
-- Assignments
-    -  [x] Assignment 1 <br>
-    -  [x] Assignment 2  <br>    
-    -  [x] Assignment 3  <br> 
-    -  [x] Assignment 4  <br> 
+    - Project Development Phase
+        - [x] Sprint 1
+        - [x] Sprint 2
+        - [x] Sprint 3
+        - [x] Sprint 4
+ 
 <br>
  
 
